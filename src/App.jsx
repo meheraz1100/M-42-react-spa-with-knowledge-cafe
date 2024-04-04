@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1 className='text-6xl bg-red-400'>Knowledge Cafe</h1>
     </>
   )
 }
