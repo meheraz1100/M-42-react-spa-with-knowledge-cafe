@@ -1,4 +1,6 @@
-# React + Vite
+# Simple SPA using ReactJS 
+
+# Project Name : Knowledge cafe
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
